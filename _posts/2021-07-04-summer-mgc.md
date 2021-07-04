@@ -16,6 +16,6 @@ background: '/img/posts/01.jpg'
 
 <p>
 <li>인프런 node.js 강의 수강</li>
-<img src='/img/posts/week1-1.png' alt="1">
+<img width="462" alt="week1-1" src="https://user-images.githubusercontent.com/73513965/124377025-c888e100-dce4-11eb-8db3-c4807ed066cc.png">
 <li></li>
 </p>
