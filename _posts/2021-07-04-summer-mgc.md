@@ -22,5 +22,5 @@ background: '/img/posts/01.jpg'
 <img src="https://user-images.githubusercontent.com/73513965/124377320-5e713b80-dce6-11eb-8994-8674a2d921d9.png">
 
 <li>웹서버 생성하기</li>
-
+<img src ="https://user-images.githubusercontent.com/73513965/124377460-ff5ff680-dce6-11eb-9b5a-807b414afb46.png">
 </p>
