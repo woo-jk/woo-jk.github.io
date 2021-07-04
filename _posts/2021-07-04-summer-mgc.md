@@ -17,7 +17,6 @@ background: '/img/posts/01.jpg'
 <p>
 <li>인프런 node.js 강의 수강</li>
 <img width="462" alt="week1-1" src="https://user-images.githubusercontent.com/73513965/124377025-c888e100-dce4-11eb-8db3-c4807ed066cc.png">
-![스크린샷 2021-07-04 오후 4 30 46](https://user-images.githubusercontent.com/73513965/124377110-41883880-dce5-11eb-81c3-4948d12894a6.png)
-![스크린샷 2021-07-04 오후 4 24 34](https://user-images.githubusercontent.com/73513965/124377113-48af4680-dce5-11eb-95f6-76e52a2feb31.png)
+![week1-2](https://user-images.githubusercontent.com/73513965/124377154-772d2180-dce5-11eb-8929-bba995b19cc2.png)
 <li></li>
 </p>
