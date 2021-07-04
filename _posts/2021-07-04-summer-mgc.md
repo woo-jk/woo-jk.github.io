@@ -16,7 +16,11 @@ background: '/img/posts/01.jpg'
 
 <p>
 <li>인프런 node.js 강의 수강</li>
-<img width="462" alt="week1-1" src="https://user-images.githubusercontent.com/73513965/124377025-c888e100-dce4-11eb-8db3-c4807ed066cc.png">
-![week1-2](https://user-images.githubusercontent.com/73513965/124377154-772d2180-dce5-11eb-8929-bba995b19cc2.png)
-<li></li>
+<img width="462" alt="week1-1" src="https://user-images.githubusercontent.com/73513965/124377025-c888e100-dce4-11eb-8db3-c4807ed066cc.png">  
+
+<li>nodejs 및 npm 설치</li>
+<img src="https://user-images.githubusercontent.com/73513965/124377320-5e713b80-dce6-11eb-8994-8674a2d921d9.png">
+
+<li>웹서버 생성하기</li>
+<img src ="https://user-images.githubusercontent.com/73513965/124377460-ff5ff680-dce6-11eb-9b5a-807b414afb46.png">
 </p>
