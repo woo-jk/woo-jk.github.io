@@ -15,5 +15,11 @@ background: '/img/posts/01.jpg'
 <h2 class="section-heading">회고</h2>
 
 <p>
+<li>인프런 node.js 강의 수강</li>
+<img alt="week2-1" src="https://user-images.githubusercontent.com/73513965/125186874-b3253100-e267-11eb-8472-84c1e1cea6bb.png">  <br/>
 
+<li>express 설치</li><br/>
+
+<li>express를 활용하여 간단한 웹앱을 만듦</li>
+<img width="525" alt="week2-2" src="https://user-images.githubusercontent.com/73513965/125186875-b4565e00-e267-11eb-8b4a-2ee542e0dd00.png">
 </p>
