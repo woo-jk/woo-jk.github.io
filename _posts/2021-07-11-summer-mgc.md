@@ -21,5 +21,7 @@ background: '/img/posts/01.jpg'
 <li>express 설치</li><br/>
 
 <li>express를 활용하여 간단한 웹앱을 만듦</li>
-<img width="525" alt="week2-2" src="https://user-images.githubusercontent.com/73513965/125186875-b4565e00-e267-11eb-8b4a-2ee542e0dd00.png">
+<img width="525" alt="week2-2" src="https://user-images.githubusercontent.com/73513965/125186875-b4565e00-e267-11eb-8b4a-2ee542e0dd00.png"><br/>
+<li>자바스크립트와 node.Js의 연결성 구조를 파악함</li><br/>
+<li>동기함수와 비동기함수의 차이점을 배웠다</li><br/>
 </p>
