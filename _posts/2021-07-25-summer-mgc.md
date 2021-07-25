@@ -21,4 +21,3 @@ background: '/img/posts/01.jpg'
 </p>
 <li>쿼리스트링과 시멘틱 URL에 대해 학습함</li>
 <li>node.js에서 GET과 POST을 활용하는 방식을 학습함</li>
-</p>
