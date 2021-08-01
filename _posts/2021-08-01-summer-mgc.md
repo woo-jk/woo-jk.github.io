@@ -12,3 +12,7 @@ background: '/img/posts/01.jpg'
 
 
 <h2 class="section-heading">회고</h2>
+![스크린샷 2021-08-01 오후 4 47 41](https://user-images.githubusercontent.com/73513965/127763554-5846979d-d0be-440b-8e3a-8cf01d497c4e.png)
+<p>이제까지 배운 node.js를 사용해 간단하게 웹 애플리케이션을 제작함</p>
+<p>node.js와 express를 사용하였고, post방식으로 서버애 파일을 저장하고, get으로 파일을 불러옴</p>
+<p>아직은 간단한 애플리케이션이지만 조금 더 심화된 공부를 한다면 실제 프로젝트에서도 사용할법한 애플리케이션을 만들 수 있을 것 같다.</p>
